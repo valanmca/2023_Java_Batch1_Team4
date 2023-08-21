@@ -1,6 +1,18 @@
 class MyClass {
+<<<<<<< HEAD
     void age() {
         System.out.println("Age is 23");
+=======
+// naveen - 11958
+void naveen1(){
+   System.out.println("Hello");
+}
+void naveen2(){
+   System.out.println("World");
+}
+
+public void static main(String args[]){
+>>>>>>> 840b18150d66ee4a9edc4bf9a63d29bcf4aac70a
 
 <<<<<<< HEAD
     }
@@ -31,6 +43,7 @@ System.out.println("The value of subtract is "+Sub);
 
 >>>>>>> 1b2a59b681d155bf3c007c0164106ef8ff6a1f66
 }
+<<<<<<< HEAD
 
 =========
 public static void Multiplication(int a,int b) {
@@ -45,3 +58,6 @@ System.out.println("The value of subtract is "+Division);
 
 // Multiplication and division added by Jeyandhan
 
+=======
+}
+>>>>>>> 840b18150d66ee4a9edc4bf9a63d29bcf4aac70a
