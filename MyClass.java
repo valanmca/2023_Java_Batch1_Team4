@@ -59,7 +59,11 @@ System.out.println("The value of subtract is "+Division);
 }*/
 
 // Multiplication and division added by Jeyandhan
-// Commented on 2nd time
+// Commented on 2nd time by purushoth
+
+void date(){
+System.out.println("The date is 21.08.2023");
+}
 
 
 void name(){
